@@ -1,7 +1,9 @@
 def hello():
-    print('hey hi')
- 
-def hru():
-  print('ok bye')
+    print("hey hi")
 
-print('tata bye bye')
+
+def hru():
+    print("ok bye")
+
+
+print("tata bye bye")
