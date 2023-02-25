@@ -7,7 +7,7 @@ def hru():
 
 
 def okbye():
-  print("yo")
+    print("yo")
 
 
 print("tata bye bye")
